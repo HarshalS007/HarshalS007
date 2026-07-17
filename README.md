@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-<a href="mailto:2003hdsharma@gmail.com"><img src="https://img.shields.io/badge/Email-2003hdsharma%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://harshals007.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/harshal-sharma-60a16a258"><img src="https://img.shields.io/badge/LinkedIn-Harshal%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/HarshalS007"><img src="https://img.shields.io/badge/GitHub-HarshalS007-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:2003hdsharma@gmail.com"><img src="https://img.shields.io/badge/Email-2003hdsharma%40gmail.com-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/></a>
+<a href="https://harshals007.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-1DA1F2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2b2b2b"/></a>
+<a href="https://www.linkedin.com/in/harshal-sharma-60a16a258"><img src="https://img.shields.io/badge/LinkedIn-Harshal%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2b2b"/></a>
+<a href="https://github.com/HarshalS007"><img src="https://img.shields.io/badge/GitHub-HarshalS007-2b2b2b?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
 </p>
 
 ---
