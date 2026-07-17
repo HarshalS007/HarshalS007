@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-<a href="mailto:2003hdsharma@gmail.com"><img src="https://img.shields.io/badge/Email-2003hdsharma%40gmail.com-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/></a>
-<a href="https://harshals007.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-1DA1F2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2b2b2b"/></a>
-<a href="https://www.linkedin.com/in/harshal-sharma-60a16a258"><img src="https://img.shields.io/badge/LinkedIn-Harshal%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2b2b"/></a>
-<a href="https://github.com/HarshalS007"><img src="https://img.shields.io/badge/GitHub-HarshalS007-2b2b2b?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
+<a href="mailto:2003hdsharma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://harshals007.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harshal-sharma-60a16a258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/HarshalS007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -22,6 +22,7 @@
 - 🌐 **Looking for:** Full-time opportunities in Software Engineering — open to relocation
 - ⚡ **Fun fact:** I build GitHub bots that review code better than I review my own PRs
 - 🔗 **Portfolio:** [harshals007.github.io/Portfolio](https://harshals007.github.io/Portfolio/)
+- 📄 **View My Resume:** [Resume](./assets/Harshal_Sharma_Resume.pdf)
 
 ---
 
@@ -29,22 +30,27 @@
 
 ### Education
 
-🎓 **Bachelor of Engineering, Computer Science and Engineering**
-Prof. Ram Meghe Institute of Technology and Research — CGPA: 7.88/10.0
+<ul>
+<li><b>Bachelor of Engineering, Computer Science and Engineering</b><br/>
+Prof. Ram Meghe Institute of Technology and Research — CGPA: 7.88/10.0</li>
+</ul>
 
 ### Experience
 
-🔹 **Actuall (TuneNexus Pvt. Ltd.)** — *Software Development Engineer*
-Standardized REST contracts across 12+ endpoints and cut production API errors by 45%; built a shared React Native component library reducing UI frame drops by 38%.
-
-🔹 **Craftsman Lab** — *Full Stack Developer*
-Shipped 3+ production web apps for commercial and government clients, cutting delivery time from 6 weeks to under 2 weeks with reusable templates.
+<ul>
+<li><b>Software Development Engineer</b> @ Actuall (TuneNexus Pvt. Ltd.)<br/>
+Standardized REST contracts across 12+ endpoints and cut production API errors by 45%; built a shared React Native component library reducing UI frame drops by 38%.</li>
+<li><b>Full Stack Developer</b> @ Craftsman Lab<br/>
+Shipped 3+ production web apps for commercial and government clients, cutting delivery time from 6 weeks to under 2 weeks with reusable templates.</li>
+</ul>
 
 ### Featured Projects
 
-🚀 **AI Powered Content Brief Generator** — Serverless GPT-4 pipeline supporting 500+ concurrent jobs, sub-300ms cold starts
-🚀 **Intelligent PR Review Platform** — GitHub App automating PR reviews with LLM-based diff analysis across 300+ PRs
-🚀 **API Gateway & Microservices Platform** — Routes 10K+ requests/min across 5 services with P95 latency under 80ms
+<ul>
+<li>🚀 <b>AI Powered Content Brief Generator</b> — Serverless GPT-4 pipeline supporting 500+ concurrent jobs, sub-300ms cold starts</li>
+<li>🚀 <b>Intelligent PR Review Platform</b> — GitHub App automating PR reviews with LLM-based diff analysis across 300+ PRs</li>
+<li>🚀 <b>API Gateway & Microservices Platform</b> — Routes 10K+ requests/min across 5 services with P95 latency under 80ms</li>
+</ul>
 
 ---
 
